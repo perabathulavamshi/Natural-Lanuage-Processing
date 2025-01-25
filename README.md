@@ -59,17 +59,6 @@ This project leverages Natural Language Processing (NLP) techniques to analyze, 
 
 ---
 
-## 📁 Repository Structure
-```
-|-- data/                  # Dataset files
-|-- scripts/               # Python scripts for preprocessing and modeling
-|-- visualizations/        # Visual outputs like word clouds
-|-- README.md              # Project overview and instructions
-|-- NLP Final Project.ipynb# Main notebook for running the project
-```
-
----
-
 ## 📩 Contact
 For questions or collaboration:
 
